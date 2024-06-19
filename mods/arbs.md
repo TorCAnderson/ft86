@@ -16,7 +16,7 @@ are provided in lbs/in (shame on me), rounded to the nearest integer.
 Product name | Softest | Stiffest | Notes
 ------------ | ------- | -------- | -----
 Cusco 16 mm (965 311 A16) | 111
-Gen1 OE | 141
+Gen1 OE 18 mm solid | 141
 Perrin 19 mm | 176 | 242 | Might experience fitment issues, such as end links hitting the FLCA at full droop, and/or the tires hitting the ARB at full lock under load
 ST Suspension 19 mm | 199 | 248
 Cusco 20 mm (965 311 A20) | 245
@@ -31,8 +31,8 @@ Product name | Softest | Middle | Stiffest | Notes
 ------------ | ------- | ------ | -------- | -----
 Mann 13 mm   | 72 | 89 | 113 | Requires a spacer between the subframe and the bushings, likely won't work on gen2 BRZs
 Cusco 14 mm (965 311 B14) | 82
-Early gen1s | 113
-2017+ gen1 Subaru BRZ | 140
+Early gen1s 14 mm | 113
+2017+ gen1 Subaru BRZ 15 mm | 140
 Perrin 16 mm | 147 | 186 | 244 | Requires Perrin end links for some positions
 Whiteline 16 mm | 158 | 214 | 312
 Cusco 16 mm (965 311 B16) | 190
